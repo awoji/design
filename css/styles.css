@@ -731,6 +731,7 @@ border-radius: 0;
   padding-bottom: 30px;
   color: #fff;
   background: #141414;
+  text-align: center;
 }
 #footer a {
   color: #05BA8E;
@@ -743,13 +744,12 @@ border-radius: 0;
   padding: 0;
   margin: 0 -7.5px;
 }
-#footer ul > li {
+#footer ul li {
  display: inline-block;
- background: rgb(54, 54, 54);
  padding: 3px 0;
  width: 31px;
- text-align: center;
 }
+
 @media only screen and (min-width: 768px) {
   #footer .social-icons {
     float: right;
